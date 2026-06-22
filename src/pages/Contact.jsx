@@ -5,10 +5,10 @@ const Contact = () => (
   <>
     <Navbar />
 
-    <section id="page-header">
+    {/* <section id="page-header">
       <h2>#LET&apos;S TALK</h2>
       <p>Leave a message — we love to hear from you</p>
-    </section>
+    </section> */}
 
     <section id="contact-details" className="section-p1">
       <div className="details">

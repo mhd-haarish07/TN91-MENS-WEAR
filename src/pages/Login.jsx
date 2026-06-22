@@ -31,10 +31,10 @@ const Login = () => {
   return (
     <>
       <Navbar />
-      <section id="page-header" style={{ height: 200 }}>
+      {/* <section id="page-header" style={{ height: 200 }}>
         <h2>Welcome Back</h2>
         <p>Login to your TN91 account</p>
-      </section>
+      </section> */}
 
       <div className="auth-page">
         <div className="auth-card">
