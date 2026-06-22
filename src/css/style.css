@@ -889,10 +889,6 @@ button.normal:hover, button.white:hover {
      padding: 0 80px;
      background-position:top 30% right 30% ;
 }
-#hero .h1,h2,h4,p{
-
- display:none
-}
 #feature {
     justify-content: center;
     
@@ -960,13 +956,6 @@ button.normal:hover, button.white:hover {
     padding: 0 20px;
     background-position: 55%
 }
-
-#hero .h1,h2,h4,p{
-
- display:none
-}
-
-
 #feature {
     justify-content: space-between;
 }
@@ -1343,10 +1332,6 @@ footer .copyright {
 
 /* ===== SHOP FILTER BAR ===== */
 @media (max-width: 768px) {
-  #hero .h1,h2,h4,p{
-
- display:none
-}
   #cart-add { flex-direction: column; }
   #coupon, #subtotal { width: 100%; }
   .cart-actions { justify-content: center; }
