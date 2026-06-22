@@ -1400,7 +1400,7 @@ footer .copyright {
   flex: 1; background: #fff; padding: 48px 44px;
 }
 .auth-side {
-  width: 360px; background: linear-gradient(145deg, #088178, #044d48);
+  width: 360px; background: linear-gradient(145deg, #4aeee3, #0e968d);
   color: #fff; padding: 48px 40px; display: flex; flex-direction: column; justify-content: center;
 }
 .auth-side h2 { font-size: 26px; margin-bottom: 14px; }

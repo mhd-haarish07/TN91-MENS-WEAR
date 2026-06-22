@@ -87,10 +87,10 @@ const Profile = () => {
   return (
     <>
       <Navbar />
-      <section id="page-header" style={{ minHeight:160 }}>
+      {/* <section id="page-header" style={{ minHeight:160 }}>
         <h2>My Account</h2>
         <p>Welcome back, {user.name.split(" ")[0]}!</p>
-      </section>
+      </section> */}
 
       <div className="profile-page section-p1">
         {/* Sidebar */}

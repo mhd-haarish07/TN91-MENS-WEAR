@@ -43,10 +43,10 @@ const Shop = () => {
   return (
     <>
       <Navbar />
-      <section id="page-header">
+      {/* <section id="page-header">
         <h2>#SHOP ALL</h2>
         <p>Find your perfect style</p>
-      </section>
+      </section> */}
 
       <div className="shop-toolbar">
         {/* Search */}

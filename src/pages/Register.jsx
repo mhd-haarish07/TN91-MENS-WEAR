@@ -48,10 +48,10 @@ const Register = () => {
   return (
     <>
       <Navbar />
-      <section id="page-header" style={{ height: 200 }}>
+      {/* <section id="page-header" style={{ height: 200 }}>
         <h2>Create Account</h2>
         <p>Join TN91 and shop the best menswear</p>
-      </section>
+      </section> */}
 
       <div className="auth-page">
         <div className="auth-card">
